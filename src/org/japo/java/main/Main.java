@@ -21,13 +21,9 @@ package org.japo.java.main;
  */
 public class Main {
 
-    
     public static void main(String[] args) {
-        final double CAMBIO_EURO_DOLAR=1.0921;
+        final double CAMBIO_EURO_DOLAR = 1.0921;
         System.out.print("El cambio de hoy es 1 euro por ");
         System.out.println(CAMBIO_EURO_DOLAR);
-        
-        
     }
-    
 }
